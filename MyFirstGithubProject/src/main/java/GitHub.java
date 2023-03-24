@@ -21,7 +21,7 @@ public class GitHub {
         {
             if(n%2 == 1)
             {
-                System.out.println("true");
+                System.out.println("trueyes");
             }
             else
                 System.out.println("false");
