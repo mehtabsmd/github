@@ -1,0 +1,54 @@
+1. change is slow and gradual
+
+
+
+1. Bank of the west:
+It is now part of the BMO family, a leading North American bank with a 200+ year history of success. BMO offers abroad range of financial services to help customers achieve real financial progress and shares Bank of the West’s commitment in driving positive change for a thriving economy, a sustainable future, and an inclusive society.
+
+Specialties:
+Customer Service, Cash Management, Commercial Lending, International & Banking Services, Wealth Management, Merchant Services, Business Services, Online Banking, Investing & Trading, Mobile Banking, Loans, Small Business Banking, Commercial Banking, and Personal Banking
+
+My work:
+Front End applications like Online Banking accessed from web browser and Mobile Banking applications call our REST API's to fetch the Account Balance Information and also the Balance history information over a period of time. Our API's also provides infomration on if the Acounts are Restricted for any Transactions.
+
+
+2. Credit Suisse:
+It is a leading global wealth manager with strong investment banking capabilities.
+
+Specialties:
+Private Banking & Wealth management, Investment Banking.
+
+My work:
+you are actively involved in our Payments team to develop a Spring Boot oriented Microservice architecture to standardize and harmonize our payment services.
+
+3. Travelport:
+It is a worldwide travel retail platform, Their marketplace connects buyers and sellers for delivering exceptional travel experiences.
+
+Specialties:
+Technology, Travel Commerce, Travel, Distribution, Payment, Airlines, Travel Agents, Online Travel Agencies, Travel Management Companies, Corporate Travel, B2B, Cloud, Search, Business Intelligence, Data, Travel Industry
+
+My work:
+I am part of CIDB(customer infromation database) team for the delivery of CIDB critical data to Travel intelligence and other needy teams within the organization. Mainly involved in driving migration to cloud.
+
+4. MilliporeSigma:
+We offer one of the broadest portfolios in the industry for scientists, best-in-class products for pharmaceutical development and manufacturing, and a fully integrated service organization to support CDMO and contract testing across traditional and novel modalities.
+Our vision is a world where our innovative products, services and digital offerings help create solutions for people globally and a sustainable future for generations to come.
+
+Specialties:
+Life Science Research, Drug Discovery & Development, Lab Filtration, Lab Water, Bioscience, Upstream & Downstream Bioprocessing, BioMonitoring, Lab Solutions, Life Sciences, Process Solutions
+
+My work:
+I have worked in the development of backend RESTful web services, these will be consumed by the frontend customized e-commerce and web application solutions.
+
+
+5. Renault Nissan Technology & Business Centre India:
+RNTBCI is a captive automative technology and business centre supporting Renault & Nissan globally.
+It is located in Mahindra world city, chennai.
+
+
+Specialities:
+manufacturing, technology, research and technology, automative
+
+My work:
+I have involved in the Designing and implementing the financial services web system and allowing delegated users to have access to the required financial reports. I have also involved in implementation of we bapplication and web services to allow secure communication among employees, administrators.
+For the Backend DB we have used mySQL and ORacle for maintaining details of customers, faculty login information and their desired areas of working.

@@ -13,7 +13,8 @@ public class GitHub {
     public static boolean canFly(boolean hasWings) {
         if (hasWings == true) {
             return true;
-        } else {
+        }
+        else {
             return false;
         }
     }
